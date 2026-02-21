@@ -1,123 +1,83 @@
 --- Document 1 ---
-source_file: amazon 10-k 2024.pdf
-company_name: amazon
-doc_type: 10-k
 fiscal_year: 2024
-page: 27
-file_hash: 5b582c59f1d1fa81d5112c9e0b9aa87afdbc9f42418daace257bc360e0f61ef7
+company_name: google
+source_file: google 10-k 2024.pdf
+file_hash: 46106605128d8b0dfc668e25b7cc70bdfc68e87fa8ba5d7aad8b0456665d3db9
+doc_type: 10-k
+page: 50
 
 Content:
 
 
-## General and Administrative
+## REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
 
-The decrease in general and administrative costs in 2024, compared to the prior year, is primarily due to a decrease in payroll and related expenses.
+To the Stockholders and the Board of Directors of Alphabet Inc.
 
-## Other Operating Expense (Income), Net
+## Opinion on the Financial Statements
 
-Other operating expense (income), net was $767 million and $763 million during 2023 and 2024, and was primarily related to asset impairments and the amortization of intangible assets.
+We have audited the accompanying consolidated balance sheets of Alphabet  Inc.  (the  Company)  as  of  December  31,  2023  and  2024,  the related consolidated statements of income, comprehensive income, stockholders' equity and cash flows for each of the three years in the period ended December 31, 2024, and the related notes and financial statement schedule listed in the Index at Item 15 (collectively referred to as the 'consolidated financial statements'). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2023 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2024, in conformity with U.S. generally accepted accounting principles.
 
-## Operating Income (Loss)
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's  internal  control  over  financial  reporting  as  of  December  31,  2024,  based  on  criteria  established  in  Internal  Control-Integrated Framework  issued  by  the  Committee  of  Sponsoring  Organizations  of  the  Treadway  Commission  (2013  framework),  and  our  report  dated February 4, 2025 expressed an unqualified opinion thereon.
 
-Operating income (loss) by segment is as follows (in millions):
+## Basis for Opinion
 
-|                         | Year Ended December 31,   | Year Ended December 31,   |
-|-------------------------|---------------------------|---------------------------|
-|                         | 2023                      | 2024                      |
-| Operating Income (Loss) |                           |                           |
-| North America           | $ 14,877                  | $ 24,967                  |
-| International           | (2,656)                   | 3,792                     |
-| AWS                     | 24,631                    | 39,834                    |
-| Consolidated            | $ 36,852                  | $ 68,593                  |
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect  to  the  Company  in  accordance  with  the  U.S.  federal  securities  laws  and  the  applicable  rules  and  regulations  of  the  Securities  and Exchange Commission and the PCAOB.
 
-Operating income was $36.9 billion and $68.6 billion for 2023 and 2024. We believe that operating income is a more meaningful measure than gross profit and gross margin due to the diversity of our product categories and services. For more information on the operating expenses that impact segment operating income, see 'Operating Expenses' and the descriptions of operating expense line item changes on pages 25 to 27, and 'Note 10 - Segment Information' on page 65.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable  assurance  about  whether  the  financial  statements  are  free  of  material  misstatement,  whether  due  to  error  or  fraud.  Our  audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
 
-The increase in North America operating income in 2024, compared to the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and shipping costs.
+## Critical Audit Matter
 
-The International operating income in 2024, as compared to the operating loss in the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased shipping and fulfillment costs. Changes in foreign exchange rates did not significantly impact operating income in 2024.
-
-The increase in AWS operating income in 2024, compared to the prior year, is primarily due to increased sales, decreased payroll and related expenses, and a reduction in depreciation and amortization expense from our change in the estimated useful lives of our servers, partially offset by spending on technology infrastructure that was primarily driven by additional investments to support AWS business growth. Changes in foreign exchange rates positively impacted operating income by $240 million in 2024.
-
-## Interest Income and Expense
-
-Our interest income was $2.9 billion and $4.7 billion during 2023 and 2024, primarily due to a higher average balance of invested funds at prevailing rates. We generally invest our excess cash in investment grade short- to intermediate-term marketable debt securities and AAA-rated money market funds. Our interest income corresponds with the average balance of invested funds based on the prevailing rates, which vary depending on the geographies and currencies in which they are invested.
-
-Interest expense was $3.2 billion and $2.4 billion in 2023 and 2024 and was primarily related to debt and finance leases. See Item 8 of Part II, 'Financial Statements and Supplementary Data - Note 4 - Leases and Note 6 - Debt' for additional information.
-
-Our long-term lease liabilities were $77.3 billion and $78.3 billion as of December 31, 2023 and 2024. Our long-term debt was $58.3 billion and $52.6 billion as of December 31, 2023 and 2024. See Item 8 of Part II, 'Financial Statements and Supplementary Data - Note 4 - Leases and Note 6 - Debt' for additional information.
-
-## Other Income (Expense), Net
-
-Other income (expense), net was $938 million and $(2.3) billion during 2023 and 2024. The primary components of other income (expense), net are related to equity securities valuations and adjustments, equity warrant valuations, and foreign currency. Included in other income (expense), net in 2023 and 2024 is a marketable equity securities valuation gain (loss) of $797 million and $(1.6) billion from our equity investment in Rivian.
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or  required  to  be  communicated  to  the  audit  committee  and  that:  (1)  relates  to  accounts  or  disclosures  that  are  material  to  the  financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosure to which it relates.
 
 
 --- Document 2 ---
-company_name: amazon
+company_name: google
+source_file: google 10-k 2024.pdf
+page: 90
 doc_type: 10-k
+file_hash: 46106605128d8b0dfc668e25b7cc70bdfc68e87fa8ba5d7aad8b0456665d3db9
 fiscal_year: 2024
-file_hash: 5b582c59f1d1fa81d5112c9e0b9aa87afdbc9f42418daace257bc360e0f61ef7
-page: 52
-source_file: amazon 10-k 2024.pdf
 
 Content:
 
 
-|                                                                        | December 31, 2024      | December 31, 2024      | December 31, 2024       | December 31, 2024          |
-|------------------------------------------------------------------------|------------------------|------------------------|-------------------------|----------------------------|
-|                                                                        | Cost or Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Total Estimated Fair Value |
-| Cash                                                                   | $ 17,055               | $ -                    | $ -                     | $ 17,055                   |
-| Level 1 securities:                                                    |                        |                        |                         |                            |
-| Money market funds                                                     | 28,282                 | -                      | -                       | 28,282                     |
-| Equity securities (1)                                                  |                        |                        |                         | 3,318                      |
-| Level 2 securities:                                                    |                        |                        |                         |                            |
-| Foreign government and agency securities                               | 177                    | -                      | -                       | 177                        |
-| U.S. government and agency securities                                  | 3,452                  | 1                      | (52)                    | 3,401                      |
-| Corporate debt securities                                              | 50,959                 | 3                      | (50)                    | 50,912                     |
-| Asset-backed securities                                                | 1,539                  | 2                      | (18)                    | 1,523                      |
-| Other debt securities                                                  | 68                     | -                      | (1)                     | 67                         |
-|                                                                        | $ 101,532              | $ 6                    | $ (121)                 | $ 104,735                  |
-| Less: Restricted cash, cash equivalents, and marketable securities (2) |                        |                        |                         | (3,533)                    |
-| Total cash, cash equivalents, and marketable securities                |                        |                        |                         | $ 101,202                  |
+The following table presents long-lived assets by geographic area, which includes property and equipment, net and operating lease assets (in millions):
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+|                         | As of December 31,   | As of December 31,   |
+|-------------------------|----------------------|----------------------|
+|                         | 2023                 | 2024                 |
+| Long-lived assets:      |                      |                      |
+| United States           | $ 110,053            | $ 138,993            |
+| International           | 38,383               | 45,631               |
+| Total long-lived assets | $ 148,436            | $ 184,624            |
 
-(1) The related unrealized gain (loss) recorded in 'Other income (expense), net' was $(13.6) billion, $1.0 billion, and $(1.3) billion for the years ended December 31, 2022, 2023, and 2024.
+## Note 16. Subsequent Event
 
-(2) We are required to pledge or otherwise restrict a portion of our cash, cash equivalents, and marketable debt securities primarily as collateral for real estate, amounts due to third-party sellers in certain jurisdictions, debt, standby and trade letters of credit, and licenses of digital media content. We classify cash, cash equivalents, and marketable debt securities with use restrictions of less than twelve months as 'Accounts receivable, net and other' and of twelve months or longer as non-current 'Other assets' on our consolidated balance sheets. See 'Note 7 - Commitments and Contingencies.'
-
-The following table summarizes gross gains and gross losses realized on sales of marketable debt securities (in millions):
-
-|                 | Year Ended December 31,   | Year Ended December 31,   | Year Ended December 31,   |
-|-----------------|---------------------------|---------------------------|---------------------------|
-|                 | 2022                      | 2023                      | 2024                      |
-| Realized gains  | $ 43                      | $ 2                       | $ 3                       |
-| Realized losses | 341                       | 67                        | 10                        |
-
-The following table summarizes the remaining contractual maturities of our cash equivalents and marketable debt securities as of December 31, 2024 (in millions):
-
-|                                        | Amortized Cost   | Estimated Fair Value   |
-|----------------------------------------|------------------|------------------------|
-| Due within one year                    | $ 78,065         | $ 78,046               |
-| Due after one year through five years  | 5,023            | 4,969                  |
-| Due after five years through ten years | 560              | 553                    |
-| Due after ten years                    | 829              | 794                    |
-| Total                                  | $ 84,477         | $ 84,362               |
-
-Actual maturities may differ from the contractual maturities because borrowers may have certain prepayment conditions.
+In  January  2025,  we  recognized  an  $8.0  billion  unrealized  gain  on  our  non-marketable  equity  securities  related  to  our  investment  in  a private company. The unrealized gain reflects an increase in the fair value measurement of our investment following an observable transaction in January 2025. See Note 3 and Note 7 for further details on equity investments and OI&amp;E.
 
 
 --- Document 3 ---
-company_name: amazon
-file_hash: 5b582c59f1d1fa81d5112c9e0b9aa87afdbc9f42418daace257bc360e0f61ef7
+source_file: google 10-k 2024.pdf
 fiscal_year: 2024
+company_name: google
+page: 104
+file_hash: 46106605128d8b0dfc668e25b7cc70bdfc68e87fa8ba5d7aad8b0456665d3db9
 doc_type: 10-k
-page: 73
-source_file: amazon 10-k 2024.pdf
 
 Content:
 
 
-## Item 14. Principal Accountant Fees and Services
+## SUBSIDIARIES OF THE REGISTRANT
 
-Information required by Item 14 of Part III is included in our Proxy Statement relating to our 2025 Annual Meeting of Shareholders and is incorporated herein by reference.
+The following is a list of subsidiaries of Alphabet Inc., omitting subsidiaries which, considered in the aggregate as a single subsidiary, would not constitute a significant subsidiary as of December 31, 2024:
+
+Name of Subsidiary Google LLC XXVI Holdings Inc. Alphabet Capital US LLC
+
+Jurisdiction of Incorporation or Organization
+
+Delaware
+
+Delaware
+
+Delaware
 
